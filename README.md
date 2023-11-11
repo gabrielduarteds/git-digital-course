@@ -13,4 +13,10 @@
 * git push
 * git pull
 * git fetch
+
+## Branchs
+
+* git branch
+* git log --oneline --decorate
+* git checkout 
 * git merge
